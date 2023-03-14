@@ -1,10 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using System.Collections.Generic;
+using evoveWallet.Data.Interfaces;
 
 namespace evoveWallet.Data.Repositories
 {
-    public class UserAccountRepository
+    public class UserAccountRepository : IUserAccountRepository
     {
+        
     }
 }

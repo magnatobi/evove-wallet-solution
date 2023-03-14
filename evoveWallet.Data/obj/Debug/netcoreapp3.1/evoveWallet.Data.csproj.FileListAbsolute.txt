@@ -1,0 +1,9 @@
+C:\Users\TT-PC\source\repos\evove-wallet-solution\evoveWallet.Data\obj\Debug\netcoreapp3.1\evoveWallet.Data.csprojAssemblyReference.cache
+C:\Users\TT-PC\source\repos\evove-wallet-solution\evoveWallet.Data\obj\Debug\netcoreapp3.1\evoveWallet.Data.AssemblyInfoInputs.cache
+C:\Users\TT-PC\source\repos\evove-wallet-solution\evoveWallet.Data\obj\Debug\netcoreapp3.1\evoveWallet.Data.AssemblyInfo.cs
+C:\Users\TT-PC\source\repos\evove-wallet-solution\evoveWallet.Data\obj\Debug\netcoreapp3.1\evoveWallet.Data.csproj.CoreCompileInputs.cache
+C:\Users\TT-PC\source\repos\evove-wallet-solution\evoveWallet.Data\bin\Debug\netcoreapp3.1\evoveWallet.Data.deps.json
+C:\Users\TT-PC\source\repos\evove-wallet-solution\evoveWallet.Data\bin\Debug\netcoreapp3.1\evoveWallet.Data.dll
+C:\Users\TT-PC\source\repos\evove-wallet-solution\evoveWallet.Data\bin\Debug\netcoreapp3.1\evoveWallet.Data.pdb
+C:\Users\TT-PC\source\repos\evove-wallet-solution\evoveWallet.Data\obj\Debug\netcoreapp3.1\evoveWallet.Data.dll
+C:\Users\TT-PC\source\repos\evove-wallet-solution\evoveWallet.Data\obj\Debug\netcoreapp3.1\evoveWallet.Data.pdb

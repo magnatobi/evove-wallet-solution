@@ -2,6 +2,8 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using evoveWallet.Data.Interfaces;
+using evoveWallet.Data.Repositories;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -28,7 +30,7 @@ namespace evoveWallet
             services.AddControllers();
             services.AddScoped<ICurrencyRepository, CurrencyRepository>();
             services.AddScoped<IRoleRepository, RoleRepository>();
-            services.AddScoped<ITransactionRepository, TransactionRepository>();
+            services.AddScoped<ITransactionRepository, TransactionRespository>();
             services.AddScoped<IUserAccountRepository, UserAccountRepository>();
             services.AddScoped<IUserRoleRepository, UserRoleRepository>();
             services.AddScoped<IWalletRepository, WalletRepository>();

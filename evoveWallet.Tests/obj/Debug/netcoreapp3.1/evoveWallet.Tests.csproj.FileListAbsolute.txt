@@ -86,7 +86,6 @@ C:\Users\TT-PC\source\repos\evove-wallet-solution\evoveWallet.Tests\bin\Debug\ne
 C:\Users\TT-PC\source\repos\evove-wallet-solution\evoveWallet.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 C:\Users\TT-PC\source\repos\evove-wallet-solution\evoveWallet.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 C:\Users\TT-PC\source\repos\evove-wallet-solution\evoveWallet.Tests\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\TT-PC\source\repos\evove-wallet-solution\evoveWallet.Tests\obj\Debug\netcoreapp3.1\evoveWallet.Tests.csprojAssemblyReference.cache
 C:\Users\TT-PC\source\repos\evove-wallet-solution\evoveWallet.Tests\obj\Debug\netcoreapp3.1\evoveWallet.Tests.AssemblyInfoInputs.cache
 C:\Users\TT-PC\source\repos\evove-wallet-solution\evoveWallet.Tests\obj\Debug\netcoreapp3.1\evoveWallet.Tests.AssemblyInfo.cs
 C:\Users\TT-PC\source\repos\evove-wallet-solution\evoveWallet.Tests\obj\Debug\netcoreapp3.1\evoveWallet.Tests.csproj.CoreCompileInputs.cache
@@ -94,3 +93,5 @@ C:\Users\TT-PC\source\repos\evove-wallet-solution\evoveWallet.Tests\obj\Debug\ne
 C:\Users\TT-PC\source\repos\evove-wallet-solution\evoveWallet.Tests\obj\Debug\netcoreapp3.1\evoveWallet.Tests.dll
 C:\Users\TT-PC\source\repos\evove-wallet-solution\evoveWallet.Tests\obj\Debug\netcoreapp3.1\evoveWallet.Tests.pdb
 C:\Users\TT-PC\source\repos\evove-wallet-solution\evoveWallet.Tests\obj\Debug\netcoreapp3.1\evoveWallet.Tests.genruntimeconfig.cache
+C:\Users\TT-PC\source\repos\evove-wallet-solution\evoveWallet.Tests\obj\Debug\netcoreapp3.1\evoveWallet.Tests.csproj.AssemblyReference.cache
+C:\Users\TT-PC\source\repos\evove-wallet-solution\evoveWallet.Tests\obj\Debug\netcoreapp3.1\evoveWallet.Tests.GeneratedMSBuildEditorConfig.editorconfig

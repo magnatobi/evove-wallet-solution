@@ -5,6 +5,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using evoveWallet.Data.Interfaces;
+using evoveWallet.Data;
 
 namespace evoveWallet.Controllers
 {
@@ -20,10 +21,10 @@ namespace evoveWallet.Controllers
         }
 
         [HttpGet]
-        public ActionResult<IEnumerable<UserAccount>> GetAllUserAccounts()
+        public ActionResult<IEnumerable<UserAccount>> GetAllUsersAccount()
         {
-            var users = _repository.GetAllUserAccounts;
-            return OK(users);
+            var users = _repository.GetAllUsersAccount();
+            return Ok(users);
         }
 
         [HttpGet("{id}")]

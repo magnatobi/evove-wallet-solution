@@ -18,3 +18,5 @@ C:\Users\TT-PC\source\repos\evove-wallet-solution\evoveWallet\obj\Debug\netcorea
 C:\Users\TT-PC\source\repos\evove-wallet-solution\evoveWallet\obj\Debug\netcoreapp3.1\evoveWallet.dll
 C:\Users\TT-PC\source\repos\evove-wallet-solution\evoveWallet\obj\Debug\netcoreapp3.1\evoveWallet.pdb
 C:\Users\TT-PC\source\repos\evove-wallet-solution\evoveWallet\obj\Debug\netcoreapp3.1\evoveWallet.genruntimeconfig.cache
+C:\Users\TT-PC\source\repos\evove-wallet-solution\evoveWallet\obj\Debug\netcoreapp3.1\evoveWallet.csproj.AssemblyReference.cache
+C:\Users\TT-PC\source\repos\evove-wallet-solution\evoveWallet\obj\Debug\netcoreapp3.1\evoveWallet.GeneratedMSBuildEditorConfig.editorconfig

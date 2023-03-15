@@ -1,5 +1,5 @@
 using System.Collections.Generic;
-using evoveWallet.Data.Models
+using evoveWallet.Data.Models;
 
 namespace evoveWallet.Data.Interfaces
 {
@@ -7,7 +7,7 @@ namespace evoveWallet.Data.Interfaces
     {
         bool SaveChanges();
 
-        IEnumerable<UserAccount> GetAllUserAccounts();
+        IEnumerable<UserAccount> GetAllUsersAccount();
         UserAccount GetUserAccountById(int id);
         void CreateUserAccount(UserAccount userAccount);
         void UpdateUserAccount(UserAccount userAccount);

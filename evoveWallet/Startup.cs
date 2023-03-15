@@ -26,7 +26,12 @@ namespace evoveWallet
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllers();
+            services.AddScoped<ICurrencyRepository, CurrencyRepository>();
+            services.AddScoped<IRoleRepository, RoleRepository>();
+            services.AddScoped<ITransactionRepository, TransactionRepository>();
             services.AddScoped<IUserAccountRepository, UserAccountRepository>();
+            services.AddScoped<IUserRoleRepository, UserRoleRepository>();
+            services.AddScoped<IWalletRepository, WalletRepository>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Brj33k2f4Xc2B5vXdnF9Ml7TGWTNdWUgkx+lxEEroQbN/xLNBoYCZnul9hJ1ttEf5vbbrqGuaiQ23XcYgaeayQ==",
+  "dgSpecHash": "WMMh9sOKOHhU5oU0jHxO7Nh8P/FZpsc8fdBtuTQMr4PipTqB3SOhT98iKvJiqwj9W3hKg3R11i5cS+FtWJr9bg==",
   "success": true,
   "projectFilePath": "C:\\Users\\TT-PC\\source\\repos\\evove-wallet-solution\\evoveWallet.Data\\evoveWallet.Data.csproj",
   "expectedPackageFiles": [
@@ -14,6 +14,7 @@
     "C:\\Users\\TT-PC\\.nuget\\packages\\microsoft.entityframeworkcore.design\\3.1.0\\microsoft.entityframeworkcore.design.3.1.0.nupkg.sha512",
     "C:\\Users\\TT-PC\\.nuget\\packages\\microsoft.entityframeworkcore.relational\\3.1.0\\microsoft.entityframeworkcore.relational.3.1.0.nupkg.sha512",
     "C:\\Users\\TT-PC\\.nuget\\packages\\microsoft.entityframeworkcore.sqlserver\\3.1.0\\microsoft.entityframeworkcore.sqlserver.3.1.0.nupkg.sha512",
+    "C:\\Users\\TT-PC\\.nuget\\packages\\microsoft.entityframeworkcore.tools\\3.1.0\\microsoft.entityframeworkcore.tools.3.1.0.nupkg.sha512",
     "C:\\Users\\TT-PC\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\3.1.0\\microsoft.extensions.caching.abstractions.3.1.0.nupkg.sha512",
     "C:\\Users\\TT-PC\\.nuget\\packages\\microsoft.extensions.caching.memory\\3.1.0\\microsoft.extensions.caching.memory.3.1.0.nupkg.sha512",
     "C:\\Users\\TT-PC\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.0\\microsoft.extensions.configuration.3.1.0.nupkg.sha512",

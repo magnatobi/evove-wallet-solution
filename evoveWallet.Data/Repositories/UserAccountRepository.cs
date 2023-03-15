@@ -1,10 +1,19 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
 using evoveWallet.Data.Interfaces;
+using Microsoft.EntityFrameworkCore;
 
 namespace evoveWallet.Data.Repositories
 {
     public class UserAccountRepository : IUserAccountRepository
     {
+        private readonly EvoveContext _context; 
+        public UserAccountRepository(EvoveContext context)
+        {
+            _context = context;
+        }
+
         public void CreateUserAccount(UserAccount userAccount)
         {
             throw new System.NotImplementedException();
@@ -17,12 +26,12 @@ namespace evoveWallet.Data.Repositories
 
         public IEnumerable<UserAccount> GetAllUsersAccount()
         {
-            throw new System.NotImplementedException();
+            return _context.UserAccounts.ToList();
         }
 
-        public UserAccount GetUserAccountById(int id)
+        public UserAccount GetUserAccountById(Guid id)
         {
-            throw new System.NotImplementedException();
+            return _context.UserAccounts.FirstOrDefault(user => user.Id == id);
         }
 
         public bool SaveChanges()

@@ -28,7 +28,7 @@ namespace evoveWallet.Controllers
         }
 
         [HttpGet("{id}")]
-        public ActionResult<UserAccount> GetUserAccountById(int id)
+        public ActionResult<UserAccount> GetUserAccountById(Guid id)
         {
             var user = _repository.GetUserAccountById(id);
 

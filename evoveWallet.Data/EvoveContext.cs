@@ -6,8 +6,13 @@ namespace evoveWallet.Data
 {
     public class EvoveContext : DbContext
     {
-        public EvoveContext() {
+        public EvoveContext(DbContextOptions<EvoveContext> options) : base(options)
+        {
             
         }
+
+        public DbSet<UserAccount> UserAccount { get; set; }
+        public DbSet<Role> Role { get; set; }
+        public DbSet<UserRole> UserRole { get; set; }
     }
 }
